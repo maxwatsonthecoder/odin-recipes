@@ -4,3 +4,8 @@
     color: rgb(105, 173, 105);
 }
 
+.recipe-name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: purple;
+}
